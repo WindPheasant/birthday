@@ -3,6 +3,7 @@ var config = {
     // 句子的长度可以任意， 你可以写十句话， 二十句话都可以
     // 每句话尽量不要超过15个字,不然展示效果可能不太好
     texts: [
+        "温柔善良（canbao）的郁云慧：",
         "It's your birthday！！！",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
         "Happy birthday to you！！！yeyeyeyeye！！！",  // 同上...
         "Despite your recent setbacks？",
@@ -31,7 +32,7 @@ var config = {
     desc: {
         turn_on: "开始",
         play: "音乐",
-        bannar_coming: "颜色",
+        bannar_coming: "气球？",
         balloons_flying: "好像少点东西",
         cake_fadein: "蛋糕？",
         light_candle: "蜡烛？",
